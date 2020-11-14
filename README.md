@@ -12,4 +12,4 @@
 
 Add a link to the repository here in the README.
 
-Link: https://github.com/Full-Stack-CICE/frontend
+Link: https://github.com/Full-Stack-CICE/
